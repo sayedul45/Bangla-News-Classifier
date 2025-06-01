@@ -67,7 +67,7 @@ BanglaNewsClassification/
 ### 1. Clone the Repository
 
 ```
-git clone https://github.com/your-username/banglabert-news-classifier.git
+git clone https://github.com/sayedul45/Bangla-News-Classifier.git
 cd banglabert-news-classifier
 ```
 
